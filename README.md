@@ -46,11 +46,11 @@ Copy code
 
 | Summarization | Forecast | Tips |
 |---------------|----------|------|
-| ![Summary](https://github.com/Ayeshafathima3116/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/Ayeshafathima3116/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/Ayeshafathima3116/smart_city_assistant/blob/main/screenshots/tips.png) |
+| ![Summary](https://github.com/Ayeshafathima3116/Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM/blob/main/Screenshots/ask.png) | ![Forecast](https://github.com/Ayeshafathima3116/Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM/blob/main/Screenshots/feedback.png) | ![Tips](https://github.com/Ayeshafathima3116/Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM/blob/main/Screenshots/detect.png) |
 
 ## 🎥 Demo Video
 
-▶️ [![Demo Video](https://github.com/Ayeshafathima3116/smart_city_assistant/blob/main/screenshots/demo.png)](https://drive.google.com/file/d/1u453N7XaYV_FV89H-ollSnzUNxIVnzgy/view)
+▶️ [![Demo Video](https://github.com/Ayeshafathima3116/Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM/blob/main/Screenshots/demo.png)
 
 ---
 
@@ -58,8 +58,8 @@ Copy code
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Ayeshafathima3116/smart_city_assistant.git
-cd smart_city_assistant
+git clone https://github.com/Ayeshafathima3116/Sustainable-Smart-City-Assistance-Using-IBM-Granite-LLM.git
+cd Sustainable-Smart-City-Assistance-Using-IBM-Granite-LLM
 Create a virtual environment
 
 bash
